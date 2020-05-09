@@ -1,0 +1,57 @@
+
+
+
+.turbo {
+    width: 1000px;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 30px;
+}
+
+ header .bashlig {
+    text-align: center; 
+    margin-bottom: 10px;
+}
+
+.turbo .content .main-content {
+    padding: 5px;
+    max-height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: 1px solid rgb(18, 83, 223);
+}
+
+ .bmw {
+max-width: 30%;
+display: inline-block;
+margin: 5px;
+padding: 5px;
+border: 1px solid;
+text-align: center;
+transition: all .5s;
+}
+
+.bmw:hover {
+    box-shadow: 5px 6px 7px blue;
+}
+
+.bmw h4 {
+    margin: 5px;
+}
+.bmw p {
+    margin: 5px;
+}
+.bmw .read {
+    font-family: fantasy;
+    text-decoration: none;
+}
+.bmw .read:hover {
+    color: chartreuse;
+}
+
+img {
+    max-width: 100%;
+    height: 300px;
+    width: 100%;
+    
+}
